@@ -10,6 +10,7 @@ Tugas Pemrograman Berorientasi Objek Kel. 7:
 
 
 **Landing Page**
+
 ![image](https://github.com/user-attachments/assets/bd8646ed-e535-4b2a-bcc3-7818a8f462a5)
 
 ## Fitur-Fitur:
