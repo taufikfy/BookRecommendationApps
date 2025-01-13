@@ -17,21 +17,27 @@ Tugas Pemrograman Berorientasi Objek Kel. 7:
 **1. Rekomendasi**
 
 - case 1: Fantasy
-![image](https://github.com/user-attachments/assets/aabba7c8-0f64-41c7-8fa2-d34814325ed7)
+
+  ![image](https://github.com/user-attachments/assets/aabba7c8-0f64-41c7-8fa2-d34814325ed7)
 
 - case 2: Romance
-![image](https://github.com/user-attachments/assets/e5a9d98c-8310-42f8-8a4b-61e885bae2c8)
+
+  ![image](https://github.com/user-attachments/assets/e5a9d98c-8310-42f8-8a4b-61e885bae2c8)
 
 - case 3: Mystery
-![image](https://github.com/user-attachments/assets/64807c6e-4751-4c0d-8a92-67808e2baa92)
+
+  ![image](https://github.com/user-attachments/assets/64807c6e-4751-4c0d-8a92-67808e2baa92)
 
 - case 4: History
-![image](https://github.com/user-attachments/assets/e2f423e2-9ead-48ed-9a1f-bfbba2b60a8d)
+
+  ![image](https://github.com/user-attachments/assets/e2f423e2-9ead-48ed-9a1f-bfbba2b60a8d)
 
 - case 5: Adventure
-![image](https://github.com/user-attachments/assets/ec697e47-79c7-4dde-9e24-a1699299ee96)
+
+  ![image](https://github.com/user-attachments/assets/ec697e47-79c7-4dde-9e24-a1699299ee96)
 
 - case 6: Horror
+
   ![image](https://github.com/user-attachments/assets/615b6713-82b4-4e49-9717-f24546e61336)
 
 **2. Tambah Buku**
