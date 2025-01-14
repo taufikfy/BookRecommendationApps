@@ -5,7 +5,7 @@ Tugas Pemrograman Berorientasi Objek Kel. 7:
 3. Moh. Taufik Febriansah
 
 **Deskripsi Umum Aplikasi Book Recommendation**
-<p align="justify">Aplikasi Book Recommendation adalah sebuah aplikasi berbasis Java yang dirancang untuk membantu pengguna menemukan dan mengelola buku berdasarkan preferensi genre mereka. Aplikasi ini juga memungkinkan pengguna untuk menambahkan buku ke daftar koleksi pribadi mereka, sehingga memudahkan untuk melacak buku yang ingin dibaca atau disimpan untuk referensi di masa depan. Aplikasi ini dilengkapi dengan antarmuka pengguna grafis (GUI) yang ramah pengguna, dibuat menggunakan NetBeans IDE.</p>
+<p align="justify">Aplikasi Book Recommendation adalah sebuah aplikasi berbasis Java yang dirancang untuk membantu pengguna menemukan dan mengelola buku berdasarkan preferensi genre mereka. Aplikasi ini dilengkapi dengan antarmuka pengguna grafis (GUI) yang ramah pengguna, dibuat menggunakan NetBeans IDE.</p>
 
 
 
